@@ -1,0 +1,10 @@
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\bin\Debug\DoubleClickTest.exe.config
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\bin\Debug\DoubleClickTest.exe
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\bin\Debug\DoubleClickTest.pdb
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\obj\Debug\DoubleClickTest.csprojAssemblyReference.cache
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\obj\Debug\DoubleClickTest.Form1.resources
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\obj\Debug\DoubleClickTest.Properties.Resources.resources
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\obj\Debug\DoubleClickTest.csproj.GenerateResource.cache
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\obj\Debug\DoubleClickTest.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\obj\Debug\DoubleClickTest.exe
+C:\Users\Kate\source\repos\DoubleClickTest\DoubleClickTest\obj\Debug\DoubleClickTest.pdb
